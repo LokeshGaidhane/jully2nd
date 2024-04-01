@@ -15,7 +15,6 @@ public class ThisKeyword {
 	public static void main(String[] args) {
 		ThisKeyword ve = new ThisKeyword();
 		ve.getvalues(10,15);
-		ve.PrintValues();
-	}
+		
 
 }
